@@ -1,3 +1,8 @@
+div.note {
+    background-color: lightyellow;
+    color: darkgray;
+}
+
 code {background-color: dimgray;
       border: thick;
       border-spacing: 20px;
@@ -16,3 +21,4 @@ div.contents {background-color: lightgray;
 table.image {text-align: right;
              align-items: end;
 }
+
